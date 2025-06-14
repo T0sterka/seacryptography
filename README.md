@@ -65,4 +65,3 @@ python bot.py
 ├── requirements.txt  # Зависимости
 └── README.md         # Документация
 ```
-```
