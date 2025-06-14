@@ -42,7 +42,7 @@ def check_email_leak(email, api_key):
         return None
 
 # Инициализация бота с токеном
-bot = telebot.TeleBot('7514486365:AAE5R7whBl37aeIMVtya8Zr4GdLQE37aw6s')
+bot = telebot.TeleBot('Telegram_Token')
 
 # Словарь для хранения сессий пользователей
 user_sessions = {}
