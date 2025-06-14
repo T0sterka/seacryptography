@@ -39,20 +39,20 @@ API Have I Been Pwned
 Клонируйте репозиторий:
 
 bash
-git clone https://github.com/ваш-username/telegram-encryption-bot.git
-cd telegram-encryption-bot
+{git clone https://github.com/ваш-username/telegram-encryption-bot.git
+cd telegram-encryption-bot}
 Установите зависимости:
 
 bash
-pip install -r requirements.txt
+{pip install -r requirements.txt}
 Создайте файл config.py и добавьте ваш Telegram токен:
 
 python
-TOKEN = 'ваш_telegram_токен'
-HIBP_API_KEY = 'ваш_api_ключ_haveibeenpwned'
+{TOKEN = 'ваш_telegram_токен'
+HIBP_API_KEY = 'ваш_api_ключ_haveibeenpwned'}
 Запустите бота:
 
 bash
-python bot.py
+{python bot.py}
 📝 Лицензия
 Этот проект распространяется под лицензией MIT. Подробнее см. в файле LICENSE.
